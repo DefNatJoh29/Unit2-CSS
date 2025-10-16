@@ -4,3 +4,14 @@ body{
 ul{
     color: #cccccc;
 }
+h1{
+    padding-left: 0ch;
+    margin-left: 0cqi;
+    color: antiquewhite;
+}
+footer{
+    color: rgb(192, 28, 28);
+    font-size: larger;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
