@@ -71,7 +71,7 @@ div>p{
    - Italicize these paragraphs
    Hint: Use adjacent sibling selector (+)
 */
-.recent-posts h3+p {
+.recent-posts h3 + p {
     font-style: italic;
     color: #676767;
 }
