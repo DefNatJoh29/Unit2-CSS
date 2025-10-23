@@ -1,0 +1,39 @@
+/* Movie Review CSS Starter File */
+/* We'll add styles here step by step! */
+
+/* Step 1: Colors - We'll add these together! */
+body{
+    background-color: #13412953;
+    color:#6344EA;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height:1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #ABCDE4;
+    color: white;
+    text-align:center;
+    padding: 40px 20px;
+    margin:6.7px 6.9px;
+    border-radius: 10px;
+}
+header h1{
+    font-family: "Stalinist One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.tagline {
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+/* Step 2: Typography - Font families coming soon! */
+
+
+/* Step 3: Text styling - Sizes and spacing! */
