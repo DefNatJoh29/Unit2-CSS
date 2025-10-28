@@ -32,6 +32,9 @@ header h1{
     margin: 0;
     padding: 0;
 }
+
+/* Asia Selectors 1 */
+
 .china {
     font-size: 20px;
     font-style:oblique;
@@ -70,7 +73,7 @@ header h1{
     padding: 0px;
     margin-bottom: 20px;
 }
-.highlight {
+.asia-highlight {
     color: bisque;
     font-size: 25px;
     font-style: italic;
@@ -79,6 +82,25 @@ header h1{
     padding: 2rem;
     margin-bottom: 2rem;
 }
+/* Europe selectors */
+.Eurheader {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:400;
+    font-style:normal;
+    background-color: #670000;
+}
+.finland {
+    font-size: 20px;
+    font-style:oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#d7edafbd;
+    padding:20px;
+    margin:20px;
+    text-align: right;
+    background-color: rgb(94, 87, 87);
+    border-radius: 12.5px;
+}
+/* Miscellaneous */
 .outer{
     padding: 2.5em;
     margin-left: 2.5em;
@@ -88,7 +110,9 @@ header h1{
     background: rgb(66, 66, 67);
     border-radius: 10px;
 }
-
+img{
+    text-align: center;
+}
 /* Step 2: Typography - Font families coming soon! */
 
 
